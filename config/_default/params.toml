@@ -200,6 +200,11 @@ plugins_js  = []
   publication_view = 2
   talk_view = 2
 
+  # Show images left in compact view for posts, publications and talks
+  post_view_picture_left = false
+  publication_view_picture_left = true
+  talk_view_picture_left = false
+
 ############################
 ## Comments
 ############################
