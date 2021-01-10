@@ -6,6 +6,7 @@ title: Recent & Upcoming Talks
 #   2 = Compact
 #   3 = Card
 view: 2
+picture_left: false
 
 # Optional header image (relative to `static/media/` folder).
 header:
